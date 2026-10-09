@@ -1,0 +1,6 @@
+# Dépendances du projet Drone de patrouille.
+# Les modes console utilisent surtout la bibliothèque standard.
+# Panda3D est nécessaire pour le mode 3D RL.
+
+panda3d>=1.10.14
+pytest>=8.0.0

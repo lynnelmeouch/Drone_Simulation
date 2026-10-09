@@ -1,0 +1,9 @@
+takeoff_cmd
+move_step
+move_step
+move_step
+return_home
+return_home
+dock_cmd
+charge_step
+charge_step
